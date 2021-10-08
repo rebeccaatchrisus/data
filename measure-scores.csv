@@ -3,14 +3,14 @@ CPOE,Achieved the Standard,100
 CPOE,Considerable Achievement,70
 CPOE,Some Achievement,40
 CPOE,Limited Achievement,15
-CPOE,Unable to Calculate Score,
+CPOE,Unable to Calculate Score,0
 BCMA,Achieved the Standard,100
 BCMA,Considerable Achievement,75
 BCMA,Some Achievement,50
 BCMA,Limited Achievement,25
-BCMA,Unable to Calculate Score,
+BCMA,Unable to Calculate Score,0
 IPS,Achieved the Standard,100
 IPS,Considerable Achievement,50
 IPS,Some Achievement,15
 IPS,Limited Achievement,5
-IPS,Unable to Calculate Score,
+IPS,Unable to Calculate Score,0
