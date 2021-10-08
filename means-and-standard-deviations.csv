@@ -1,0 +1,30 @@
+Domain,Measure,Mean,"Standard
+Deviation"
+Process/Structural,CPOE,82.18,24.61
+Process/Structural,BMCA,81.76,23.39
+Process/Structural,IPS,60.72,43.83
+Process/Structural,SP 1,117.29,7.69
+Process/Structural,SP 2,117.11,11.14
+Process/Structural,SP 9,98.38,6.15
+Process/Structural,Hand Hygiene,59.22,3.64
+Process/Structural,H-COMP-1,91.04,2.15
+Process/Structural,H-COMP-2,90.91,2.02
+Process/Structural,H-COMP-3,84.21,3.48
+Process/Structural,H-COMP-5,77.53,3.44
+Process/Structural,H-COMP-6,86.51,3.18
+Outcome,"Foreign Object
+Retained",0.02,0.06
+Outcome,Air Embolism,0.0004,0.004
+Outcome,Falls and Trauma,0.43,0.37
+Outcome,CLABSI,0.67,0.57
+Outcome,CAUTI,0.72,0.54
+Outcome,SSI: Colon,0.81,0.65
+Outcome,MRSA,0.80,0.63
+Outcome,C. Diff.,0.57,0.34
+Outcome,PSI 3,0.58,0.50
+Outcome,PSI 4,164.58,19.98
+Outcome,PSI 6,0.25,0.05
+Outcome,PSI 11,6.36,2.04
+Outcome,PSI 12,3.74,0.98
+Outcome,PSI 14,0.91,0.08
+Outcome,PSI 15,1.26,0.31

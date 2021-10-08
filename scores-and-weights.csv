@@ -1,0 +1,28 @@
+Domain,Measure,Evidence Score,Opportunity Score,Impact Score,Standard Measure Weight
+Process/Structural,CPOE,2,1.30,3,6.00%
+Process/Structural,BCMA,2,1.29,3,6.00%
+Process/Structural,IPS,2,1.72,3,7.30%
+Process/Structural,SP 1,1,1.07,2,3.20%
+Process/Structural,SP 2,1,1.10,2,3.30%
+Process/Structural,SP 9,1,1.06,3,4.30%
+Process/Structural,Hand Hygiene,2,1.06,2,4.20%
+Process/Structural,H-COMP-1,1,1.02,2,3.10%
+Process/Structural,H-COMP-2,1,1.02,2,3.10%
+Process/Structural,H-COMP-3,1,1.04,2,3.20%
+Process/Structural,H-COMP-5,1,1.04,2,3.20%
+Process/Structural,H-COMP-6,1,1.04,2,3.10%
+Outcome,Foreign Object Retained,1,3.00,2,4.30%
+Outcome,Air Embolism,1,3.00,1,2.50%
+Outcome,Falls and Trauma,2,1.85,3,4.60%
+Outcome,CLABSI,2,1.84,3,4.60%
+Outcome,CAUTI,2,1.75,3,4.40%
+Outcome,SSI: Colon,2,1.81,2,3.50%
+Outcome,MRSA,2,1.79,3,4.50%
+Outcome,C. Diff.,2,1.59,3,4.20%
+Outcome,PSI 3,1,1.86,3,4.00%
+Outcome,PSI 4,1,1.12,2,2.00%
+Outcome,PSI 6,1,1.20,2,2.10%
+Outcome,PSI 11,1,1.32,2,2.20%
+Outcome,PSI 12,1,1.26,2,2.20%
+Outcome,PSI 14,1,1.09,2,2.00%
+Outcome,PSI 15,1,1.25,3,2.90%
