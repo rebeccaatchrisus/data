@@ -1,5 +1,4 @@
-Domain,Measure,Mean,"Standard
-Deviation"
+Domain,Measure,Mean,"StandardDeviation"
 Process/Structural,CPOE,82.18,24.61
 Process/Structural,BMCA,81.76,23.39
 Process/Structural,IPS,60.72,43.83
